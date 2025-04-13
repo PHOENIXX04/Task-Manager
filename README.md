@@ -25,6 +25,7 @@ This is a simple Task Manager, which can be used to add, remove or check existin
   3. Pressing 1 to add task.
   4. Pressing 2 to remove a task.
   5. Pressing 3 to check all tasks.
+  6. Then enter your task you want to add or remove.
 
 ---
 
